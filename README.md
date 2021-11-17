@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @simao-p
-- 👀 I’m interested in rehabilitation robotics
-- 🌱 I’m currently a PhD student
-- 💞️ I’m looking to collaborate with developing teams for robotics control
 - 📫 How to reach me: simaopedrocarvalho17@gmail.com
 
 <!---
